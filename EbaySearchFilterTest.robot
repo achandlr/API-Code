@@ -11,9 +11,9 @@ Library  BuiltIn
 
 
 *** Variables ***
-${username}     alex.chandler@utexas.edu
-${password}     Twinkie926!
-${key}      AlexChan-CelloFin-PRD-640728b69-767c9386
+${username}     insertEmail
+${password}     insertPassword
+${key}      insertKey
 ${budget} =  1200
 
 *** Keywords ***
